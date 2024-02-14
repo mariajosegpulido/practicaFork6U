@@ -16,3 +16,6 @@ Beowulf
 -Harry Potter
 -Roma
 
+-El nombre de la Rosa
+-Seda
+-El Origen del Universo
